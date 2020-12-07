@@ -1,0 +1,18 @@
+[
+    {
+        "app_name": "Unc0ver",
+        "author": "pwn20wnd",
+        "icon": "https://github.com/pwn20wndstuff/Undecimus/raw/master/Undecimus/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60%403x.png",
+        "signed_by": "Library++",
+        "plist_url": "itms-services://?action=download-manifest&url=https://api.starfiles.ml/installipa/y0-fcMqQd",
+        "screenshot": ["https://ioshacker.com/wp-content/uploads/2020/06/Remove-unc0ver-jailbreak-2.jpg", "https://raw.githubusercontent.com/pwn20wndstuff/Undecimus/master/Resources/Screenshot-1.PNG?token=AlyO4wXUInR6oHEgx0Tg31ri0t1q91frks5bx5ZbwA%3D%3D"]
+    },
+    {
+        "app_name": "Odyssey",
+        "author": "Odyssey Team",
+        "icon": "https://iosninja.io/img/ipas/odyssey.jpg",
+        "signed_by": "Library++",
+        "plist_url": "itms-services://?action=download-manifest&url=https://api.starfiles.ml/installipa/UT-xHXcP3",
+        "screenshot": ["url_to_screenshot", "url_to_screenshot", "url_to_screenshot"]
+    }
+]
